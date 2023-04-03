@@ -141,10 +141,8 @@ footer {
   color: white;
   background-image: linear-gradient(rgba(3, 5, 4, 0.8), rgba(3, 5, 4, 0.8)),
     url("../images/barcelona_footer.png");
-
   background-repeat: no-repeat;
   background-size: cover;
-  padding: 100px 0;
 }
 
 footer h4 {
